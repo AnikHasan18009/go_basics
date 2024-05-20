@@ -1,0 +1,1 @@
+  "jwt-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQW5pa2EiLCJlbWFpbCI6ImFuaWthQGdtYWlsLmNvbSIsImV4cCI6MTcxNjE4ODQzMH0.ZmEByy9xwK3g9yHBwUGwtB7OtUstUbcgrb10fnD-ttw"
